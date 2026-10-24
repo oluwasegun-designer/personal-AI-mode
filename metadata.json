@@ -1,0 +1,6 @@
+{
+  "name": "Personal AI",
+  "description": "A friendly personal AI companion that gets to know you through natural conversation, remembering your goals, interests, and preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,52 @@
+{
+  "users": {
+    "user_test_verify": {
+      "user": {
+        "id": "user_test_verify",
+        "name": "Sarah",
+        "email": "sarah@example.com",
+        "isDemo": false,
+        "createdAt": "2026-10-24T14:32:59.371Z"
+      },
+      "messages": [
+        {
+          "id": "m1",
+          "sender": "assistant",
+          "text": "Hey! What should I know about you?",
+          "timestamp": "2026-10-24T14:32:59.371Z"
+        }
+      ],
+      "memories": [
+        {
+          "id": "mem1",
+          "userId": "user_test_verify",
+          "content": "Prefers concise summaries",
+          "category": "Preferences",
+          "status": "approved",
+          "confidence": "explicit",
+          "createdAt": "2026-10-24T14:32:59.371Z"
+        }
+      ],
+      "profile": {
+        "userId": "user_test_verify",
+        "preferredName": "Sarah",
+        "profession": "Data Scientist",
+        "interests": [
+          "Photography"
+        ],
+        "goals": [
+          "Write a book"
+        ],
+        "currentProjects": [
+          "Climate visualizer"
+        ],
+        "communicationPreferences": "Concise",
+        "learningStyle": "Examples",
+        "otherNotes": [],
+        "lastUpdated": "2026-10-24T14:32:59.371Z"
+      },
+      "isOnboardingComplete": true,
+      "lastSaved": "2026-10-24T14:32:59.389Z"
+    }
+  }
+}
